@@ -1,0 +1,20 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: false
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "87318edb-694b-e787-82f9-9cb097a8454b"
+  minimap: {}
+  "one-dark-ui":
+    layoutMode: "Spacious"
+  welcome:
+    showOnStartup: false
