@@ -1,4 +1,6 @@
 "*":
+  "autocomplete-python":
+    useKite: false
   core:
     disabledPackages: [
       "wrap-guide"
@@ -14,7 +16,6 @@
   "exception-reporting":
     userId: "87318edb-694b-e787-82f9-9cb097a8454b"
   minimap: {}
-  "one-dark-ui":
-    layoutMode: "Spacious"
+  "one-dark-ui": {}
   welcome:
     showOnStartup: false
