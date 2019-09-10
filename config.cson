@@ -1,4 +1,6 @@
 "*":
+  "atom-autocomplete-php":
+    binComposer: "C:/ProgramData/ComposerSetup/bin/composer.phar"
   "autocomplete-python":
     useKite: false
   core:
@@ -6,13 +8,14 @@
       "wrap-guide"
     ]
     telemetryConsent: "no"
+    uriHandlerRegistration: "always"
   editor:
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
     softWrap: false
     tabLength: 4
-    tabType: "hard"
+    tabType: "soft"
   "exception-reporting":
     userId: "87318edb-694b-e787-82f9-9cb097a8454b"
   minimap: {}
